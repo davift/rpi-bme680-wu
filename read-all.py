@@ -3,7 +3,7 @@
 #
 # version 2
 # date 2021-11-19
-# https://github.com/davift/rpi-bme680-wunderground
+# https://github.com/davift/rpi-bme680-wu
 #
 
 import bme680
